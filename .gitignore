@@ -1,0 +1,7 @@
+#
+# Git .ignore file
+#
+tempfile.txt
+*.zip
+*.gz
+
